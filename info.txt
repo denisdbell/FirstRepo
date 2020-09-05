@@ -1,2 +1,4 @@
 "Add new file to exisiting commit" 
 Add new file to existing commit 
+
+Commit #2 during squash activity.
